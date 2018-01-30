@@ -1,1 +1,6 @@
-#include<stdio.h> main() { Printf("Hello World!\n");}
+#include<stdio.h>  
+main() 
+{     
+   printf("Hello World\n");
+   printf(�Hello You!\n�);
+}
